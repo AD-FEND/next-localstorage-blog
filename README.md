@@ -12,3 +12,7 @@ I chose this framework because i read through the documentation on Reacts websit
 I went with the Next.js because:
 1. It is more commonly used.
 2. it supports more commonly used SQL instead of gatsby that supports GraphQL data layer.
+
+## Design
+I picked a color from a design pallette that i liked from this URl, https://paletton.com/#uid=1000u0kllll5nxBdmqWtkfKKWa8
+I chose to use Tailwind because its the default of Next.js and it is in high demand.
