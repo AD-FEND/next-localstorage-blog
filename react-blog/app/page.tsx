@@ -12,6 +12,12 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-[#510000]">
+      <nav className="nav__link">
+        <ul>
+          <li><a href="/sign-up">Sign up</a></li>
+          <li><a href="#"></a>Community blog</li>
+        </ul>
+      </nav>
       <Image
               src="/boxingring.jpg"
               alt="Boxing ring"
