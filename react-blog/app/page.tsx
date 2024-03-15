@@ -15,7 +15,7 @@ export default function Home() {
       <nav className="nav__link">
         <ul>
           <li><a href="/sign-up">Sign up</a></li>
-          <li><a href="#"></a>Community blog</li>
+          <li><a href="/community-blog">community blog</a></li>
         </ul>
       </nav>
       <Image
