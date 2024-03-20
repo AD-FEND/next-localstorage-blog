@@ -47,7 +47,7 @@ export default function  SignInForm() {
         />
       </div>
       {/* Submit button */}
-      <button type="submit">Sign Up</button>
+      <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-4 rounded' type="submit">Sign Up</button>
     </form>
   );
 }

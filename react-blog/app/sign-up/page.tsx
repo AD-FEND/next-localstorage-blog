@@ -11,11 +11,10 @@ export default function SignUpPage() {
   }
   return (
     <div>
-      <h1>Sign up</h1>
-      <Link href="/">Home</Link>
+      <h1 className='text-3xl'>Sign up</h1>
+      
       
 <div>
-      <h1>Sign up</h1>
       <SignInForm></SignInForm>
       {/* Link back to the home page */}
       <Link href="/">Home</Link>
